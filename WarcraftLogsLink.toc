@@ -1,0 +1,9 @@
+## Interface: 11307
+## Title: WarcraftLogs Link
+## Notes: Adds a WarcraftLogs link to the player context menu.
+## Author: NumberOnePlayerKillerHero
+## Version: 1.0
+## SavedVariables: regionMap
+## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
+
+index.lua
